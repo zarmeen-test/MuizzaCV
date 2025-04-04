@@ -1,0 +1,6 @@
+fname,lname,pay,gender,team
+steve,jobs,7000,M,devops
+bill,gates,8000,M,testing
+john,doe,5000,M,devt
+tim,cook,4000,M,testing
+
