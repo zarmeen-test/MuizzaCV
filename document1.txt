@@ -1,0 +1,7 @@
+name, age, gender, job role
+Sushma, 23, female, manual TE
+sachin, 30, male, api TE
+Manohar, 25, male, java dev
+Manisha, 28, female, python dev
+zoya, 33, female, scrum master
+zaid, 27, male, data scientist
